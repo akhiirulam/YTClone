@@ -121,7 +121,7 @@ div
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-    top: 40px;
+    top: 38px;
     left: 100px;
 }
 .submenu a
@@ -151,7 +151,7 @@ div
     width: 50%;
     height: fit-content;
     margin-left: 60px;
-   
+    z-index: -1;
     background-color: #ffffff;
 }
 .bannerone ul
