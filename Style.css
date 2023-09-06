@@ -151,6 +151,7 @@ div
     width: 50%;
     height: fit-content;
     margin-left: 60px;
+    z-index: -1;
     background-color: #ffffff;
 }
 .bannerone ul
